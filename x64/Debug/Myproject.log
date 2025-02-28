@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(151,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(152,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Myproject.vcxproj -> C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\x64\Debug\Myproject.exe

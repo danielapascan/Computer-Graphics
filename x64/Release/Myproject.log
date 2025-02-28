@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(184,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(185,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(210,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(214,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(219,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(224,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(230,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(235,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(240,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\Myproject\main.cpp(246,23): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 1801 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Myproject.vcxproj -> C:\Users\danap\OneDrive\Desktop\FACULTATE\AN III\PG\Myproject\x64\Release\Myproject.exe
